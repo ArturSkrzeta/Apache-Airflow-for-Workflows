@@ -9,4 +9,5 @@
   <li>airflow scheduler</li>
   <li>localhost:8080/admin</li>
   <li>'ctrl + z' + </li>
+  <img src="images/airflow-webserver-d.JPG">
 </ul>
