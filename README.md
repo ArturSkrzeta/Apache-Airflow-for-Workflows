@@ -1,5 +1,5 @@
 <h2>Ubuntu</h2>
-<h3>Setting Aiflow up in the Ubuntu terminal</h3>
+<h3>Setting Airflow up in the Ubuntu terminal</h3>
 <ul>
   <img src="images/airflow-webserver-d.JPG">
   <li>sudo apt install python3-pip</li>
