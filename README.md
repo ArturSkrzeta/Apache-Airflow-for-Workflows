@@ -2,7 +2,6 @@
 <h3>Setting Aiflow up in the Ubuntu terminal</h3>
 <ul>
   <img src="images/airflow-webserver-d.JPG">
-  <br>
   <li>sudo apt install python3-pip</li>
   <li>sudo pip3 install apache-airflow</li>
   <li>airflow initdb</li>
