@@ -1,8 +1,12 @@
 <h2>Ubuntu</h2>
+<h3>Setting Aiflow up in the Ubuntu terminal</h3>
 <ul>
   <li>sudo apt install python3-pip</li>
   <li>sudo pip3 install apache-airflow</li>
   <li>airflow initdb</li>
   <li>airflow webserver -p 8080</li>
-  <li>10.0.0.21:8080/admin</li>
+  <li>'airflow webserver -D' - running airflow in the background</li>
+  <li>airflow scheduler</li>
+  <li>localhost:8080/admin</li>
+  <li>'ctrl + z' + </li>
 </ul>
