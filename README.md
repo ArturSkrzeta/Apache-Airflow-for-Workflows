@@ -19,3 +19,8 @@
 <ul>
   <img src="images/dag_files_dir.png">
 </ul>
+<h3>Downstream info flow</h3>
+<ul>
+  <img src="images/downstream.JPG">
+</ul>
+
