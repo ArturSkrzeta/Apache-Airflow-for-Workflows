@@ -1,6 +1,6 @@
 <h2>Apache Airflow for building workflows (Ubuntu server)</h2>
 <p>Apache Airflow is the workflow management system to <b>create, schedule and monitor</b> workflows.</p>
-<h3>Setting Airflow up in the Ubuntu terminal</h3>
+<h3>Setup on Ubuntu</h3>
 <ul>
   <img src="images/airflow-webserver-d.JPG">
   <li>sudo apt install python3-pip</li>
