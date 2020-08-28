@@ -11,3 +11,7 @@
   <li>localhost:8080/admin</li>
   <li>ctrl + z -->>  stoping command</li>
 </ul>
+<h3>Directed Acyclig Graph</h3>
+<ul>
+  <img src="images/dag.JPG">
+</ul>
