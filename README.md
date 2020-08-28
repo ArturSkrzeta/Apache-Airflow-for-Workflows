@@ -15,3 +15,7 @@
 <ul>
   <img src="images/dag.JPG">
 </ul>
+<h3>DAG files directory</h3>
+<ul>
+  <img src="images/dag_files_dir.png">
+</ul>
