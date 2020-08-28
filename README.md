@@ -1,4 +1,4 @@
-<h2>Apache Airflow for building workflows on Ubuntu</h2>
+<h2>Apache Airflow for building workflows (Ubuntu server)</h2>
 <h3>Setting Airflow up in the Ubuntu terminal</h3>
 <ul>
   <img src="images/airflow-webserver-d.JPG">
