@@ -15,12 +15,17 @@
 <ul>
   <img src="images/dag.JPG">
 </ul>
-<h3>DAG files directory</h3>
-<ul>
-  <img src="images/dag_files_dir.png">
-</ul>
 <h3>Downstream info flow</h3>
 <ul>
   <img src="images/downstream.JPG">
 </ul>
+<h3>DAG files directory</h3>
+<ul>
+  <img src="images/dag_files_dir.png">
+</ul>
+<h3>Creating .py files</h3>
+<ul>
+  <img src="images/new_py_file.png">
+</ul>
+
 
