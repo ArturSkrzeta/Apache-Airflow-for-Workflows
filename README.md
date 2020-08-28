@@ -25,7 +25,7 @@
 </ul>
 <h3>Creating .py files</h3>
 <ul>
-  <img src="images/new_py_file.png">
+  <img src="images/new_py_file.JPG">
 </ul>
 
 
