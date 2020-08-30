@@ -7,7 +7,8 @@
   <li>sudo pip3 install apache-airflow</li>
   <li>airflow initdb</li>
   <li>airflow webserver -p 8080</li>
-  <li>airflow webserver -D -->> running airflow in the background</li>
+  <li>airflow webserver -D -->> running airflow in the background</li
+  <li>airflow scheduler -->> in another terminal</li>
   <li>airflow scheduler -D</li>
   <li>localhost:8080/admin</li>
   <li>ctrl + z -->>  stoping command</li>
