@@ -22,7 +22,7 @@
        esc ->> ':wq' : wirte and quit a file <br>
   </li>
 </ul>
-<h3>Directed Acycling Graph</h3>
+<h3>Directed Acyclic Graph</h3>
 <ul>
   <img src="images/dag.JPG">
 </ul>
