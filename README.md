@@ -34,9 +34,3 @@
 <ul>
   <img src="images/dag_files_dir.png">
 </ul>
-<h3>Creating .py files</h3>
-<ul>
-  <img src="images/new_py_file.JPG">
-</ul>
-
-
