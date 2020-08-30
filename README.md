@@ -17,9 +17,9 @@
   <li>'cd ..' : moving back one directory.</li>
   <li>'ls -l'</li>
   <li>'sudo apt install vim'</li>
-  <li>'vim script.py' <br>
-       esc ->> ':w'  : write a file
-       esc ->> ':wq' : wirte and quit a file
+  <li>'vim script.py': new file in current directory <br>
+       esc ->> ':w'  : write a file <br>
+       esc ->> ':wq' : wirte and quit a file <br>
   </li>
 </ul>
 <h3>Directed Acyclig Graph</h3>
