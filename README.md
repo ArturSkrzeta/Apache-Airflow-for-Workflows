@@ -12,6 +12,13 @@
   <li>localhost:8080/admin</li>
   <li>ctrl + z -->>  stoping command</li>
 </ul>
+<h3>Useful commnads</h3>
+<ul>
+  <li>'cd ..' : moving back one directory.</li>
+  <li>'ls -l'</li>
+  <li>'sudo apt install vim'</li>
+  <li>...</li>
+</ul>
 <h3>Directed Acyclig Graph</h3>
 <ul>
   <img src="images/dag.JPG">
