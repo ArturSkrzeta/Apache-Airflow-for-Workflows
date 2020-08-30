@@ -17,7 +17,9 @@
   <li>'cd ..' : moving back one directory.</li>
   <li>'ls -l'</li>
   <li>'sudo apt install vim'</li>
-  <li>...</li>
+  <li>'vim script.py' <br>
+       esc ->> ':qw' : quitting and writing a file
+  </li>
 </ul>
 <h3>Directed Acyclig Graph</h3>
 <ul>
