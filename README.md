@@ -3,7 +3,7 @@
 <h3>Airflow</h3>
 <ul>
   <li>When failure, we can only rerun the part of workflow that was affected.</li>
-  <li>...</li>
+  <li><b>DAG</b>- collection of tasks organized in a way that reflects their defined dependencies and relationships.</li>
 </ul>
 <h3>Setup on Ubuntu</h3>
 <ul>
