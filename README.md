@@ -2,6 +2,7 @@
 <p>Apache Airflow is the workflow management system to <b>create, schedule and monitor</b> workflows.</p>
 <h3>Workflow case study</h3>
 <p>Scheduling workflow for scraping webpage for getting currencies rates, processing it with expense data and mailing outcome.</p>
+<image src="images/graph.JPG">
 <h3>Airflow</h3>
 <ul>
   <li>When failure, we can only rerun the part of workflow that was affected.</li>
