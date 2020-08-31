@@ -9,6 +9,7 @@
   <li>Operator triggers certain action.</li>
   <li>Tsk - instantiated operator which describes single task in workflow. Instantiating taks requires providing unique task id and DAG container.</li>
 </ul>
+<h2>Notes</h2>
 <h3>Setup on Ubuntu</h3>
 <ul>
   <img src="images/airflow-webserver-d.JPG">
