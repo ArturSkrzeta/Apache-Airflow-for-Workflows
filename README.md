@@ -1,5 +1,7 @@
 <h2>Apache Airflow for building workflows (Ubuntu server)</h2>
 <p>Apache Airflow is the workflow management system to <b>create, schedule and monitor</b> workflows.</p>
+<h3>Workflow case study</h3>
+<p>Scheduling workflow for scraping webpage for getting currencies rates, processing it with expense data and mailing outcome.</p>
 <h3>Airflow</h3>
 <ul>
   <li>When failure, we can only rerun the part of workflow that was affected.</li>
