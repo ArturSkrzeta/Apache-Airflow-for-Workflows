@@ -3,7 +3,9 @@
 <h3>Airflow</h3>
 <ul>
   <li>When failure, we can only rerun the part of workflow that was affected.</li>
-  <li><b>DAG</b>- collection of tasks organized in a way that reflects their defined dependencies and relationships.</li>
+  <li><b>DAG</b> - collection of tasks organized in a way that reflects their defined dependencies and relationships.</li>
+  <li>Operator triggers certain action.</li>
+  <li>Tsk - instantiated operator which describes single task in workflow. Instantiating taks requires providing unique task id and DAG container.</li>
 </ul>
 <h3>Setup on Ubuntu</h3>
 <ul>
