@@ -31,7 +31,7 @@ dag = DAG(
 
 # Setting Tasks
 scraping = PythonOperator(
-	task_id='scraping,
+	task_id='scraping',
 	python_callable=scrap_the_web,
 	dag=dag
 )
